@@ -1,0 +1,4 @@
+{
+  "placement": {"type": "minecraft:random_spread", "salt": 777007, "separation": 8, "spacing": 256},
+  "structures": [{"structure": "tensura_capital_giants:giants", "weight": 1}]
+}

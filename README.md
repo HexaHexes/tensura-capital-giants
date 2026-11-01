@@ -1,21 +1,18 @@
 # Tensura Capital: Giants
 
-Capital cities for the mortal races - Humans, Elves, and Dwarves - for use
-with the Tensura Faction Spawn ecosystem.
+The Giants faction capital - the Titans' Gate in the windswept peaks - for
+use with the Tensura Faction Spawn ecosystem.
 
 ## What it does
 
-Registers the capital cities for the mortal factions. Once registered, the
-spawn mod picks them up automatically: a player who first picks (or
-reincarnates into) one of these races is placed at the nearest registered
-capital to the world spawn.
+Registers the Giants capital. Once registered, the spawn mod picks it up
+automatically: a player who first picks (or reincarnates into) one of the
+Giant races is placed at the nearest registered capital to the world spawn,
+and may return to it at will.
 
-- **Humans** - a gated stone-brick town (gate and plaza, streets, cottages, keep).
-- **Elves** - an ancient-forest clearing around a giant tree, mossy walkways,
-  ground huts and treetop dwellings (generates in the forest family and
-  Tensura's ancient forest).
-- **Dwarves** - a mountain gatehouse with the massif rising behind it and a
-  carved tunnel exit (generates in the mountain biomes).
+- **Giants** - oversized stone-brick halls and towers with deepslate bands,
+  cobblestone patches and iron trim, built to a giant's scale (generates in
+  the windswept hills and the peaks).
 
 Install like any mod, alongside Tensura Faction Spawn.
 
@@ -26,7 +23,7 @@ Install like any mod, alongside Tensura Faction Spawn.
 | Required | Minecraft | - |
 | Required | NeoForge | - |
 | Required | Tensura Faction Spawn | Owns the central capital tags and arrival behaviour |
-| Required | Tensura: Reincarnated | The Elves capital generates in Tensura's ancient forest |
+| Required | Tensura: Reincarnated | Owns the Giant races the capital serves |
 
 ## Credits
 
