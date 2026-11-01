@@ -1,0 +1,8 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {"weight": 2, "element": {"element_type": "minecraft:single_pool_element", "location": "tensura_capital_giants:street", "processors": "minecraft:empty", "projection": "rigid"}},
+    {"weight": 2, "element": {"element_type": "minecraft:single_pool_element", "location": "tensura_capital_giants:spire", "processors": "minecraft:empty", "projection": "rigid"}},
+    {"weight": 2, "element": {"element_type": "minecraft:single_pool_element", "location": "tensura_capital_giants:hall", "processors": "minecraft:empty", "projection": "rigid"}}
+  ]
+}
